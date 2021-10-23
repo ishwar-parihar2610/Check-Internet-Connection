@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Check Internet Connection</string>
+    <string name="your_internet_is_connected">Your Internet is Connected</string>
+    <string name="your_internet_is_not_connected">Your Internet is Not Connected</string>
+</resources>
